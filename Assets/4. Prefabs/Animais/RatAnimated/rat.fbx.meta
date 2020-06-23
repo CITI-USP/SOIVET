@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 308bbc7124894fc43addab3e036769d9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bellieFix_bn
+    100002: head_bn
+    100004: L_ball_bn
+    100006: L_ear_bn
+    100008: L_femur_bn
+    100010: L_humerus_bn
+    100012: L_manus_bn
+    100014: L_ped_bn
+    100016: L_radius_bn
+    100018: L_scapula_bn
+    100020: L_tibia_bn
+    100022: L_tibia_bn 1
+    100024: R_ball_bn
+    100026: R_ear_bn
+    100028: R_femur_bn
+    100030: R_humerus_bn
+    100032: R_manus_bn
+    100034: R_ped_bn
+    100036: R_radius_bn
+    100038: R_scapula_bn
+    100040: //RootNode
+    100042: ratGEO
+    100044: ROOT_bn
+    100046: spine0_bn
+    100048: spine1_bn
+    100050: spine2_bn
+    100052: spine3_bn
+    100054: tail0_bn
+    100056: tail1_bn
+    100058: tail2_bn
+    400000: bellieFix_bn
+    400002: head_bn
+    400004: L_ball_bn
+    400006: L_ear_bn
+    400008: L_femur_bn
+    400010: L_humerus_bn
+    400012: L_manus_bn
+    400014: L_ped_bn
+    400016: L_radius_bn
+    400018: L_scapula_bn
+    400020: L_tibia_bn
+    400022: L_tibia_bn 1
+    400024: R_ball_bn
+    400026: R_ear_bn
+    400028: R_femur_bn
+    400030: R_humerus_bn
+    400032: R_manus_bn
+    400034: R_ped_bn
+    400036: R_radius_bn
+    400038: R_scapula_bn
+    400040: //RootNode
+    400042: ratGEO
+    400044: ROOT_bn
+    400046: spine0_bn
+    400048: spine1_bn
+    400050: spine2_bn
+    400052: spine3_bn
+    400054: tail0_bn
+    400056: tail1_bn
+    400058: tail2_bn
+    4300000: ratGEO
+    9500000: //RootNode
+    13700000: ratGEO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
